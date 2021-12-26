@@ -1,0 +1,11 @@
+c:\advent_of_code\2021\twentyfourth\target\rls\debug\deps\futures_core-6e26ff9421f45d7c.rmeta: C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\lib.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\future.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\stream.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\mod.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\poll.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\__internal\mod.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\__internal\atomic_waker.rs
+
+c:\advent_of_code\2021\twentyfourth\target\rls\debug\deps\futures_core-6e26ff9421f45d7c.d: C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\lib.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\future.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\stream.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\mod.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\poll.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\__internal\mod.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\__internal\atomic_waker.rs
+
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\lib.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\future.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\stream.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\mod.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\poll.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\__internal\mod.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.19\src\task\__internal\atomic_waker.rs:

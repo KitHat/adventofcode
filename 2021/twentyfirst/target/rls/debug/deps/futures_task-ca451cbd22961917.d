@@ -1,0 +1,11 @@
+c:\advent_of_code\2021\twentyfirst\target\rls\debug\deps\futures_task-ca451cbd22961917.rmeta: C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\lib.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\spawn.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\arc_wake.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\waker.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\waker_ref.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\future_obj.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\noop_waker.rs
+
+c:\advent_of_code\2021\twentyfirst\target\rls\debug\deps\futures_task-ca451cbd22961917.d: C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\lib.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\spawn.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\arc_wake.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\waker.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\waker_ref.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\future_obj.rs C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\noop_waker.rs
+
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\lib.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\spawn.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\arc_wake.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\waker.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\waker_ref.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\future_obj.rs:
+C:\Users\nkhte\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.19\src\noop_waker.rs:
